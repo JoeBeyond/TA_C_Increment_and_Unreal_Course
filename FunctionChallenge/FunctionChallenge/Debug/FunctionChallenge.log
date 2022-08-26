@@ -1,0 +1,3 @@
+﻿  FunctionChallenge.cpp
+C:\Users\JoeBeyond\Documents\GitHub\TA_C_Increment_and_Unreal_Course\FunctionChallenge\FunctionChallenge\Header.h(16,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  FunctionChallenge.vcxproj -> C:\Users\JoeBeyond\Documents\GitHub\TA_C_Increment_and_Unreal_Course\FunctionChallenge\Debug\FunctionChallenge.exe
