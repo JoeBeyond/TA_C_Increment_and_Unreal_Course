@@ -50,7 +50,7 @@ int main()
 
     positionX.setAxisX(93);
 
-    cout << positionX.getAxisX();
+    cout << positionX.getAxisX() << " Degrees on X-Axis" << "\n";
 
 
 
@@ -58,7 +58,7 @@ int main()
 
 	positionY.setAxisY(125);
 
-	cout << positionY.getAxisY();
+	cout << positionY.getAxisY() << " Degrees on Y-Axis" << "\n";
 
 
 
@@ -66,7 +66,7 @@ int main()
 
 	positionZ.setAxisZ(47);
 
-	cout << positionZ.getAxisZ();
+	cout << positionZ.getAxisZ() << " Degrees on Z-Axis" << "\n";
 
 
 	return 0;
