@@ -1,0 +1,5 @@
+﻿  ClassChallengeSubmissionAssigment.cpp
+C:\Users\JoeBeyond\Documents\GitHub\TA_C_Increment_and_Unreal_Course\ClassChallengeSubmissionAssigment\ClassChallengeSubmissionAssigment\ClassShape.h(17,7): warning C4101: 'height': unreferenced local variable
+C:\Users\JoeBeyond\Documents\GitHub\TA_C_Increment_and_Unreal_Course\ClassChallengeSubmissionAssigment\ClassChallengeSubmissionAssigment\ClassShape.h(19,7): warning C4101: 'width': unreferenced local variable
+C:\Users\JoeBeyond\Documents\GitHub\TA_C_Increment_and_Unreal_Course\ClassChallengeSubmissionAssigment\ClassChallengeSubmissionAssigment\ClassShape.h(18,7): warning C4101: 'length': unreferenced local variable
+  ClassChallengeSubmissionAssigment.vcxproj -> C:\Users\JoeBeyond\Documents\GitHub\TA_C_Increment_and_Unreal_Course\ClassChallengeSubmissionAssigment\Debug\ClassChallengeSubmissionAssigment.exe
