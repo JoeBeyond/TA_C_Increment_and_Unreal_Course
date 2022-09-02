@@ -16,7 +16,7 @@ public:
 
     void getArea()
     {
-        cout << "AREA OF RECTANGLE: " << '\n' << recWidth * recHeight << '\n';
+        cout << "AREA OF RECTANGLE: " << recWidth * recHeight << '\n';
     }
 };
 
@@ -42,12 +42,12 @@ public:
 
     string circleColor = color;
 
-    float circleRadius = 38.26f;
+    float circleRadius = 4.73f;
     float pie = 3.14f;
 
     void getArea()
     {
-        cout << "AREA OF CIRCLE: " << pie * circleRadius << '\n';
+        cout << "AREA OF CIRCLE: " << pow(circleRadius, circleRadius) * pie << '\n';
     }
 };
 
