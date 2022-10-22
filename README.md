@@ -6,13 +6,13 @@ For All Projects pertaining to the C++/Unreal Course.
 
 *<^>*.:.**<^>>:<<^>**.:.*<^>**<^>*.:.**<^>>:<<^>**.:.*<^>*
 
-### Some Links to Notable Challenges!
+### Some Links to Cool Programs!
 
 *<^>*.:.**<^>>:<<^>**.:.*<^>**<^>*.:.**<^>>:<<^>**.:.*<^>*
 
 ### PolyMorphism Challenge:
 <a href="https://github.com/JoeBeyond/TA_C_Increment_and_Unreal_Course/tree/main/PolymorphismChallenge">Insect Classification</a><br>
-This program denotes 2 insects from the class insect and assigns them to their respective family orders.
+This program denotes 2 insects from the class insect and assigns them to their respective family orders. Side Note: I've been stung by a Tarantula Hawk and had eggs laid in me, fun times.
 
 
 ### OOP Submission Assignment:
